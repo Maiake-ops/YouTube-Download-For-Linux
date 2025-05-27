@@ -4,13 +4,17 @@ Using yt-dlp to downloads
 ## Installation 
 
 for debian based distro/ubuntu
+
 ```sudo apt install python3 pip```
 ```sudo apt install yt-dlp```
 
 for arch / arch based
+
 ```sudo  pacman -S python3 pip```
+```sudo pacman -S yt-dlp```
 
 for fedora 
+
 ```sudo dnf install python3 pip```
 ```sudo dnf install yt-dlp```
 
